@@ -1,4 +1,4 @@
-This is demo project to implement rest api testing using the below libraries. 
+This is a project to implement rest api testing using the below libraries. 
 
 Tools/Framework/Libraries/dependencies
 
